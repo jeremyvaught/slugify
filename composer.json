@@ -1,0 +1,21 @@
+{
+    "name": "jeremyvaught/slugify",
+    "description": "Just a simple little slug maker.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeremy Vaught",
+            "email": "jeremy@jeremyvaught.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Jeremyvaught\\Slugify": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
