@@ -1,3 +1,3 @@
 # Slugify
 
-by [Jeremy Vaught](http://meh.com)
+by [Jeremy Vaught](http://github.com/jeremyvaught)
