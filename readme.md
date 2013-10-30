@@ -1,1 +1,3 @@
 # Slugify
+
+by Jeremy Vaught
