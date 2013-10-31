@@ -1,6 +1,6 @@
 {
     "name": "jeremyvaught/slugify",
-    "description": "Just a simple little slug maker. This is currently JUST A TEST. Only use if you like to use things that don't work.",
+    "description": "Just a simple little slug maker. Emphasis on simple. I use it in Laravel 4 projects.",
     "license": "MIT",
     "authors": [
         {

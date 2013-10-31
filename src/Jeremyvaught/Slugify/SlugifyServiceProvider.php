@@ -5,13 +5,6 @@ use Illuminate\Support\ServiceProvider;
 class SlugifyServiceProvider extends ServiceProvider {
 
 	/**
-	 * Indicates if loading of the provider is deferred.
-	 *
-	 * @var bool
-	 */
-	protected $defer = false;
-
-	/**
 	 * Bootstrap the app.
 	 * 
 	 * @return void
@@ -24,7 +17,7 @@ class SlugifyServiceProvider extends ServiceProvider {
 	/**
 	 * Register the service provider.
 	 *
-	 * @return void
+	 * @return object
 	 */
 	public function register()
 	{
